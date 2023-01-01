@@ -156,7 +156,9 @@ Since Pena High School is a charter school with better scores and smaller studen
 
 small and medium sized schools performed better than large sized schools, so schools with larger student population/ size negatively influences student achievements.
 
+Knowing that the large sized schools has higher budgets than the smaller sized schools.
 
+Analysis show a positive correlation between schools size and schools spending , and negative correlation between schools size and schools performance.
 
 
 
